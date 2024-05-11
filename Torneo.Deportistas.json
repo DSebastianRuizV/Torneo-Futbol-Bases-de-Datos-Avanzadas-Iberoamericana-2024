@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06f5"
+  },
+  "Nombre": "Jefferson Duque",
+  "Edad": 36,
+  "Ciudad Natal": "Medellin",
+  "Equipo": "Atletico Nacional"
+},
+{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06f6"
+  },
+  "Nombre": "Yeison Guzman",
+  "Edad": 26,
+  "Ciudad Natal": "La Union",
+  "Equipo": "Deportes Tolima"
+},
+{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06f7"
+  },
+  "Nombre": "Hugo Rodallega",
+  "Edad": 38,
+  "Ciudad Natal": "Candelaria",
+  "Equipo": "Independiente Santa Fe"
+},
+{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06f8"
+  },
+  "Nombre": "Daniel Castaño",
+  "Edad": 32,
+  "Ciudad Natal": "Bello",
+  "Equipo": "Millonarios FC"
+},
+{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06f9"
+  },
+  "Nombre": "Daniel Bocanegra",
+  "Edad": 37,
+  "Ciudad Natal": "Purificacion",
+  "Equipo": "America de Cali"
+},
+{
+  "_id": {
+    "$oid": "663ebbfdd166aee9f57c06fa"
+  },
+  "Nombre": "Carlos Bacca",
+  "Edad": 37,
+  "Ciudad Natal": "Puerto Colombia",
+  "Equipo": "Junior de Barranquilla"
+}]

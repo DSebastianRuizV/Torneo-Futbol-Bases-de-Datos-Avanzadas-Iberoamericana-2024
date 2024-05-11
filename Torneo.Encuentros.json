@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c071b"
+  },
+  "Equipo Local": "Atletico Nacional",
+  "Equipo Visitante": "Deportes Tolima",
+  "Arbitro": "Luis Sanchez",
+  "Equipo Ganador": "Atletico Nacional",
+  "Resultado": "4 - 1"
+},
+{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c071c"
+  },
+  "Equipo Local": "Millonarios FC",
+  "Equipo Visitante": "Junior de Barranquilla",
+  "Arbitro": "Nicolas Gallo",
+  "Equipo Ganador": "Junior de Barranquilla",
+  "Resultado": "0 - 1"
+},
+{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c071d"
+  },
+  "Equipo Local": "Independiente Santa Fe",
+  "Equipo Visitante": "America de Cali",
+  "Arbitro": "Luis Sanchez",
+  "Equipo Ganador": "Independiente Santa Fe",
+  "Resultado": "3 - 2"
+},
+{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c071e"
+  },
+  "Equipo Local": "America de Cali",
+  "Equipo Visitante": "Atletico Nacional",
+  "Arbitro": "Hernando Buitrago",
+  "Equipo Ganador": "Atletico Nacional",
+  "Resultado": "0 - 2"
+},
+{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c071f"
+  },
+  "Equipo Local": "Millonarios FC",
+  "Equipo Visitante": "Independiente Santa Fe",
+  "Arbitro": "Wilmar Roldan",
+  "Equipo Ganador": "Independiente Santa Fe",
+  "Resultado": "2 - 3"
+},
+{
+  "_id": {
+    "$oid": "663ec13dd166aee9f57c0720"
+  },
+  "Equipo Local": "Deportes Tolima",
+  "Equipo Visitante": "Junior de Barranquilla",
+  "Arbitro": "Carlos Ortega",
+  "Equipo Ganador": "Deportes Tolima",
+  "Resultado": "3 - 1"
+}]

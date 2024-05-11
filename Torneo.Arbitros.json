@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663ebf95d166aee9f57c0714"
+  },
+  "Nombre": "Nicolas Gallo",
+  "Edad": 37,
+  "Ciudad Natal": "Ibague"
+},
+{
+  "_id": {
+    "$oid": "663ebf95d166aee9f57c0715"
+  },
+  "Nombre": "Wilmar Roldan",
+  "Edad": 44,
+  "Ciudad Natal": "Amalfi"
+},
+{
+  "_id": {
+    "$oid": "663ebf95d166aee9f57c0716"
+  },
+  "Nombre": "Carlos Ortega",
+  "Edad": 34,
+  "Ciudad Natal": "Cartagena"
+},
+{
+  "_id": {
+    "$oid": "663ebf95d166aee9f57c0717"
+  },
+  "Nombre": "Luis Sanchez",
+  "Edad": 43,
+  "Ciudad Natal": "Zarzal"
+},
+{
+  "_id": {
+    "$oid": "663ebf95d166aee9f57c0718"
+  },
+  "Nombre": "Hernando Buitrago",
+  "Edad": 53,
+  "Ciudad Natal": "Libano"
+}]

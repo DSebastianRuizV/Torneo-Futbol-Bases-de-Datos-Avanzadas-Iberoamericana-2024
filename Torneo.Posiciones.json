@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0723"
+  },
+  "Posicion": 1,
+  "Equipo": "Atletico Nacional",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 2,
+  "Partidos Perdidos": 0,
+  "Goles a Favor": 6,
+  "Goles en Contra": 1,
+  "Goles de Diferencia": 5,
+  "Puntos": 6
+},
+{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0724"
+  },
+  "Posicion": 2,
+  "Equipo": "Independiente Santa Fe",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 2,
+  "Partidos Perdidos": 0,
+  "Goles a Favor": 6,
+  "Goles en Contra": 4,
+  "Goles de Diferencia": 2,
+  "Puntos": 6
+},
+{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0725"
+  },
+  "Posicion": 3,
+  "Equipo": "Junior de Barranquilla",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 1,
+  "Partidos Perdidos": 1,
+  "Goles a Favor": 1,
+  "Goles en Contra": 3,
+  "Goles de Diferencia": -2,
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0726"
+  },
+  "Posicion": 4,
+  "Equipo": "Deportes Tolima",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 1,
+  "Partidos Perdidos": 1,
+  "Goles a Favor": 4,
+  "Goles en Contra": 5,
+  "Goles de Diferencia": -1,
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0727"
+  },
+  "Posicion": 5,
+  "Equipo": "Millonarios FC",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 0,
+  "Partidos Perdidos": 2,
+  "Goles a Favor": 2,
+  "Goles en Contra": 4,
+  "Goles de Diferencia": -2,
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "663ec2c5d166aee9f57c0728"
+  },
+  "Posicion": 6,
+  "Equipo": "America de Cali",
+  "Partidos Jugados": 2,
+  "Partidos Ganados": 0,
+  "Partidos Perdidos": 2,
+  "Goles a Favor": 2,
+  "Goles en Contra": 5,
+  "Goles de Diferencia": -3,
+  "Puntos": 0
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c0707"
+  },
+  "Nombre": "Atletico Nacional",
+  "Ciudad": "Medellin",
+  "Entrenador": "Pablo Repetto",
+  "Jugador Destacado": "Jefferson Duque"
+},
+{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c0708"
+  },
+  "Nombre": "Deportes Tolima",
+  "Ciudad": "Ibague",
+  "Entrenador": "David Giraldo",
+  "Jugador Destacado": "Yeison Guzman"
+},
+{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c0709"
+  },
+  "Nombre": "Independiente Santa Fe",
+  "Ciudad": "Bogota DC",
+  "Entrenador": "Pablo Peirano",
+  "Jugador Destacado": "Hugo Rodallega"
+},
+{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c070a"
+  },
+  "Nombre": "Millonarios FC",
+  "Ciudad": "Bogota DC",
+  "Entrenador": "Alberto Gamero",
+  "Jugador Destacado": "Daniel Castaño"
+},
+{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c070b"
+  },
+  "Nombre": "America de Cali",
+  "Ciudad": "Cali",
+  "Entrenador": "Jorge Da Silva",
+  "Jugador Destacado": "Daniel Bocanegra"
+},
+{
+  "_id": {
+    "$oid": "663ebe7bd166aee9f57c070c"
+  },
+  "Nombre": "Junior de Barranquilla",
+  "Ciudad": "Barranquilla",
+  "Entrenador": "Arturo Reyes",
+  "Jugador Destacado": "Carlos Bacca"
+}]

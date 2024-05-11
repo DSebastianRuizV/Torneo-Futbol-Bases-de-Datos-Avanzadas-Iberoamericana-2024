@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c06ff"
+  },
+  "Nombre": "Pablo Repetto",
+  "Edad": 50,
+  "Nacionalidad": "Uruguay",
+  "Equipo": "Atletico Nacional"
+},
+{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c0700"
+  },
+  "Nombre": "David Giraldo",
+  "Edad": 41,
+  "Nacionalidad": "Colombia",
+  "Equipo": "Deportes Tolima"
+},
+{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c0701"
+  },
+  "Nombre": "Pablo Peirano",
+  "Edad": 49,
+  "Nacionalidad": "Uruguay",
+  "Equipo": "Independiente Santa Fe"
+},
+{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c0702"
+  },
+  "Nombre": "Alberto Gamero",
+  "Edad": 60,
+  "Nacionalidad": "Colombia",
+  "Equipo": "Millonarios FC"
+},
+{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c0703"
+  },
+  "Nombre": "Jorge Da Silva",
+  "Edad": 62,
+  "Nacionalidad": "Uruguay",
+  "Equipo": "America de Cali"
+},
+{
+  "_id": {
+    "$oid": "663ebcefd166aee9f57c0704"
+  },
+  "Nombre": "Arturo Reyes",
+  "Edad": 50,
+  "Nacionalidad": "Colombia",
+  "Equipo": "Junior de Barranquilla"
+}]
